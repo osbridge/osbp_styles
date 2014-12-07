@@ -36,9 +36,6 @@ html, body {
   font-family: inherit;
   vertical-align: baseline; }
 
-body.wordpress, body.ocw {
-  margin: 1.5em 0; }
-
 body.mediawiki {
   background: #fff; }
   body.mediawiki #mw-whole-page {
