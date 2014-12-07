@@ -56,8 +56,11 @@ body.mediawiki {
   }
 }
 
-body.wordpress, body.ocw, #mw-osbridge-header {
+body.wordpress, #mw-osbridge-header {
   font: 87.5%/1.5em "Helvetica Neue", Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif;
+}
+
+body.wordpress, body.ocw, #mw-osbridge-header {
   background: #fff;
   position: relative;
 

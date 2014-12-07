@@ -46,8 +46,10 @@ body.mediawiki {
     position: relative;
     top: 2em; }
 
+body.wordpress, #mw-osbridge-header {
+  font: 87.5%/1.5em "Helvetica Neue", Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif; }
+
 body.wordpress, body.ocw, #mw-osbridge-header {
-  font: 87.5%/1.5em "Helvetica Neue", Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif;
   background: #fff;
   position: relative;
   /* Removes Firefox imposed outline */
