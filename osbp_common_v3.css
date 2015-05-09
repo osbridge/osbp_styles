@@ -336,7 +336,7 @@ body.wordpress, body.ocw, #mw-osbridge-header {
     border-bottom: 2px solid transparent; }
   body.wordpress #menu li.global, body.ocw #menu li.global, #mw-osbridge-header #menu li.global {
     margin-left: 75px;
-    background: #109A8B url(i/v4_global_nav_BL.png) no-repeat left bottom;
+    background: #109A8B url(i/v4_global_nav_BL.gif) no-repeat left bottom;
     padding-bottom: 6px;
     z-index: 2;
     position: relative; }
