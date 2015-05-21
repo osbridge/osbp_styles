@@ -1,7 +1,7 @@
 #===[ Configuration ]===================================================
 
-host = 'bridgepdx@opensourcebridge.org'
-path = '/var/www/bridgepdx_common/'
+host = 'opensourcebridge.org'
+path = '/var/www/common_assets/'
 
 #===[ Tasks ]===========================================================
 
